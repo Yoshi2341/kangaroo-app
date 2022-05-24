@@ -1,1 +1,1 @@
-# kangaroo-app
+# project-template-kangaroo-2
